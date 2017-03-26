@@ -2,7 +2,7 @@
   "name": "keymaster",
   "license": "GPL-3.0",
   "description": "library for defining and dispatching keyboard shortcuts",
-  "version": "1.6.3",
+  "version": "1.6.2",
   "author": "Thomas Fuchs <thomas@slash7.com> (http://mir.aculo.us)",
   "repository": {
     "type": "git",
